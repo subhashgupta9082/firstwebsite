@@ -1,0 +1,622 @@
+﻿
+<!DOCTYPE html>
+<html lang="en">
+
+
+
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>24x7Customers Support | Customer Service Center | Repair Service Center</title>
+    <!-- Bootstrap -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/style.css" rel="stylesheet">
+    <link href="css/font-awesome.min.css" rel="stylesheet">
+    <link href="css/fontello.css" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="css/animsition.min.css">
+    <!-- Google Fonts -->
+<link href="css-1?family=Roboto:400,700,900" rel="stylesheet">
+    <!-- owl Carousel Css -->
+    <link href="css/owl.carousel.css" rel="stylesheet">
+    <link href="css/owl.theme.css" rel="stylesheet">
+    <!-- Flaticon -->
+    <link href="css/flaticon.css" rel="stylesheet">
+<style>
+       .capbox {
+  background-color: #457AB7;
+  border:#B51B32 0px dotted;
+  border-width: 0px 12px 0px 0px;
+  display: inline-block;
+  *display: inline; zoom: 1; /* FOR IE7-8 */
+  padding: 8px 10px 8px 18px;
+  }
+
+.capbox-inner {
+  font: bold 11px arial, sans-serif;
+  color: #000000;
+  background-color: #fff;
+  margin: 10px auto 5px auto;
+  padding: 3px;
+  -moz-border-radius: 4px;
+  -webkit-border-radius: 4px;
+  border-radius: 4px;
+  }
+
+#CaptchaDiv {
+  font: bold 20px verdana, arial, sans-serif;
+  font-style: italic;
+  color: #000000;
+  background-color: #FFFFFF;
+  padding: 4px;
+  -moz-border-radius: 4px;
+  -webkit-border-radius: 4px;
+  border-radius: 4px;
+  }
+
+#CaptchaInput { margin: 10px 10px 1px 10px; width: 150px; }
+
+
+    #callme {
+    position: fixed;
+    right: 50px;
+    bottom: 100px;
+    width: 70px;
+    height: 70px;
+    cursor: pointer;
+    z-index: 99990;
+}
+#callme #callmeMain {
+    -moz-border-radius: 50% !important;
+    -webkit-border-radius: 50% !important;
+    border-radius: 50% !important;
+    -moz-background-clip: padding;
+    -webkit-background-clip: padding-box;
+    background-clip: padding-box;
+    background-color: rgb(207,8,8);
+    width: 70px;
+    height: 70px;
+    -webkit-animation: zcwmini2 1.5s 0s ease-out infinite;
+    -moz-animation: zcwmini2 1.5s 0s ease-out infinite;
+    animation: zcwmini2 1.5s 0s ease-out infinite;
+}
+#callme #callmeMain:before {
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    background-image: url(images/mini.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+    -webkit-animation: zcwphone2 1.5s linear infinite;
+    -moz-animation: zcwphone2 1.5s linear infinite;
+    animation: zcwphone2 1.5s linear infinite;
+}
+@-webkit-keyframes zcwphone {
+    0% {-ms-transform:rotate(0deg);-webkit-transform:rotate(0deg);transform:rotate(0deg);}
+    25% {-ms-transform:rotate(30deg);-webkit-transform:rotate(30deg);transform:rotate(30deg);}
+    50% {-ms-transform:rotate(0deg);-webkit-transform:rotate(0deg);transform:rotate(0deg);}
+    75% {-ms-transform:rotate(-30deg);-webkit-transform:rotate(-30deg);transform:rotate(-30deg);}
+    100% {-ms-transform:rotate(0deg);-webkit-transform:rotate(0deg);transform:rotate(0deg);}
+}
+@-moz-keyframes zcwphone {
+    0% {-ms-transform:rotate(0deg);-webkit-transform:rotate(0deg);transform:rotate(0deg);}
+    25% {-ms-transform:rotate(30deg);-webkit-transform:rotate(30deg);transform:rotate(30deg);}
+    50% {-ms-transform:rotate(0deg);-webkit-transform:rotate(0deg);transform:rotate(0deg);}
+    75% {-ms-transform:rotate(-30deg);-webkit-transform:rotate(-30deg);transform:rotate(-30deg);}
+    100% {-ms-transform:rotate(0deg);-webkit-transform:rotate(0deg);transform:rotate(0deg);}
+}
+@keyframes zcwphone {
+    0% {-ms-transform:rotate(0deg);-webkit-transform:rotate(0deg);transform:rotate(0deg);}
+    25% {-ms-transform:rotate(30deg);-webkit-transform:rotate(30deg);transform:rotate(30deg);}
+    50% {-ms-transform:rotate(0deg);-webkit-transform:rotate(0deg);transform:rotate(0deg);}
+    75% {-ms-transform:rotate(-30deg);-webkit-transform:rotate(-30deg);transform:rotate(-30deg);}
+    100% {-ms-transform:rotate(0deg);-webkit-transform:rotate(0deg);transform:rotate(0deg);}
+}
+@-webkit-keyframes zcwphone2 {
+    0% {-ms-transform:rotate(0deg);-webkit-transform:rotate(0deg);transform:rotate(0deg);}
+    25% {-ms-transform:rotate(30deg);-webkit-transform:rotate(30deg);transform:rotate(30deg);}
+    50% {-ms-transform:rotate(0deg);-webkit-transform:rotate(0deg);transform:rotate(0deg);}
+    75% {-ms-transform:rotate(-30deg);-webkit-transform:rotate(-30deg);transform:rotate(-30deg);}
+    100% {-ms-transform:rotate(0deg);-webkit-transform:rotate(0deg);transform:rotate(0deg);}
+}
+@-moz-keyframes zcwphone2 {
+    0% {-ms-transform:rotate(0deg);-webkit-transform:rotate(0deg);transform:rotate(0deg);}
+    25% {-ms-transform:rotate(30deg);-webkit-transform:rotate(30deg);transform:rotate(30deg);}
+    50% {-ms-transform:rotate(0deg);-webkit-transform:rotate(0deg);transform:rotate(0deg);}
+    75% {-ms-transform:rotate(-30deg);-webkit-transform:rotate(-30deg);transform:rotate(-30deg);}
+    100% {-ms-transform:rotate(0deg);-webkit-transform:rotate(0deg);transform:rotate(0deg);}
+}
+@keyframes zcwphone2 {
+    0% {-ms-transform:rotate(0deg);-webkit-transform:rotate(0deg);transform:rotate(0deg);}
+    25% {-ms-transform:rotate(30deg);-webkit-transform:rotate(30deg);transform:rotate(30deg);}
+    50% {-ms-transform:rotate(0deg);-webkit-transform:rotate(0deg);transform:rotate(0deg);}
+    75% {-ms-transform:rotate(-30deg);-webkit-transform:rotate(-30deg);transform:rotate(-30deg);}
+    100% {-ms-transform:rotate(0deg);-webkit-transform:rotate(0deg);transform:rotate(0deg);}
+}
+@-webkit-keyframes zcwmini {
+    0% {box-shadow: 0 0 8px 6px rgba(207,8,8, 0), 0 0 0 0 rgba(0,0,0,0), 0 0 0 0 rgba(207,8,8, 0);}
+    10% {box-shadow: 0 0 8px 6px , 0 0 12px 10px rgba(0,0,0,0), 0 0 12px 14px ;}
+    100% {box-shadow: 0 0 8px 6px rgba(207,8,8, 0), 0 0 0 40px rgba(0,0,0,0), 0 0 0 40px rgba(207,8,8, 0);}
+}
+@-moz-keyframes zcwmini {
+    0% {box-shadow: 0 0 8px 6px rgba(207,8,8, 0), 0 0 0 0 rgba(0,0,0,0), 0 0 0 0 rgba(207,8,8, 0);}
+    10% {box-shadow: 0 0 8px 6px , 0 0 12px 10px rgba(0,0,0,0), 0 0 12px 14px ;}
+    100% {box-shadow: 0 0 8px 6px rgba(207,8,8, 0), 0 0 0 40px rgba(0,0,0,0), 0 0 0 40px rgba(207,8,8, 0);}
+}
+@keyframes zcwmini {
+    0% {box-shadow: 0 0 8px 6px rgba(207,8,8, 0), 0 0 0 0 rgba(0,0,0,0), 0 0 0 0 rgba(207,8,8, 0);}
+    10% {box-shadow: 0 0 8px 6px , 0 0 12px 10px rgba(0,0,0,0), 0 0 12px 14px ;}
+    100% {box-shadow: 0 0 8px 6px rgba(207,8,8, 0), 0 0 0 40px rgba(0,0,0,0), 0 0 0 40px rgba(207,8,8, 0);}
+}
+@-webkit-keyframes zcwmini2 {
+    0% {box-shadow: 0 0 8px 6px rgba(207,8,8, 0), 0 0 0 0 rgba(0,0,0,0), 0 0 0 0 rgba(207,8,8, 0);}
+    10% {box-shadow: 0 0 8px 6px , 0 0 12px 10px rgba(0,0,0,0), 0 0 12px 14px ;}
+    100% {box-shadow: 0 0 8px 6px rgba(207,8,8, 0), 0 0 0 40px rgba(0,0,0,0), 0 0 0 40px rgba(207,8,8, 0);}
+}
+@-moz-keyframes zcwmini2 {
+    0% {box-shadow: 0 0 8px 6px rgba(207,8,8, 0), 0 0 0 0 rgba(0,0,0,0), 0 0 0 0 rgba(207,8,8, 0);}
+    10% {box-shadow: 0 0 8px 6px , 0 0 12px 10px rgba(0,0,0,0), 0 0 12px 14px ;}
+    100% {box-shadow: 0 0 8px 6px rgba(207,8,8, 0), 0 0 0 40px rgba(0,0,0,0), 0 0 0 40px rgba(207,8,8, 0);}
+}
+@keyframes zcwmini2 {
+    0% {box-shadow: 0 0 8px 6px rgba(207,8,8, 0), 0 0 0 0 rgba(0,0,0,0), 0 0 0 0 rgba(207,8,8, 0);}
+    10% {box-shadow: 0 0 8px 6px , 0 0 12px 10px rgba(0,0,0,0), 0 0 12px 14px ;}
+    100% {box-shadow: 0 0 8px 6px rgba(207,8,8, 0), 0 0 0 40px rgba(0,0,0,0), 0 0 0 40px rgba(207,8,8, 0);}
+}
+
+</style>
+</head>
+
+<body class="animsition">
+    
+    <!-- /.top-bar -->
+    <div class="top-bar">
+        <!-- top-bar -->
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12 hidden-xs hidden-sm">
+                    <p class="mb0">Home Appliances all brand repair service Call Now 18008339860</p>
+          </div>
+                
+            </div>
+        </div>
+    </div>
+    <!-- /.top-bar -->
+    <div class="header-2">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-4 col-sm-12 col-xs-12">
+                    <!-- logo -->
+                    <div class="logo">
+                        <a href="#" style="color:#ffb200;font-weight: bold;font-style: revert;font-family: initial;font-size: 30px;">24x7 Customers Support</a>
+                    </div>
+                </div>
+                <!-- logo -->
+                 <div id="callme">
+  <a href="tel:18008339860
+"><div id="callmeMain"></div></a>
+</div>
+                <div class="col-md-4 text-center">
+                    <div class="head-info">
+                
+                <ul class="contact-info">
+                  <li class="info-item">
+                    <i class="licon-telephone2"></i>
+                    <div class="item-info">
+                      <span><i class="fas fa-phone-volume"></i> 24/7 Emergency Service</span>
+                      <h4><a href="tel:18008339860">18008339860</a></h4>
+                    </div>
+                  </li>
+                </ul>
+
+
+              </div>
+                </div>
+                
+                <div class="col-md-4 text-right">
+                <a href="tel:18008339860" class="btn btn-style-5">Click Here to call<br>18008339860 </a>
+
+                </div>
+            </div>
+        </div>
+        
+    </div>
+    
+            <div class="container">
+
+     <div class="row">
+    <div class="col-md-8 nopadding"><div class="slider" id="slider">
+        <!-- slider -->
+		<div>
+            <div class="student-slider-img"><img src="images/slider-01.jpg" class="">
+                
+            </div>
+        </div>
+		<div>
+            <div class="student-slider-img"><img src="images/slider-02.jpg" class="">
+                
+            </div>
+        </div>
+         <div>
+            <div class="student-slider-img"><img src="images/business-slider-01.jpg" class="">
+                
+            </div>
+        </div>
+        
+        
+       
+        
+        </div></div>
+    <div class="col-md-4 nopadding">
+   
+   
+   
+    <div class="request-form">
+    
+
+    
+                        <h2>Book An Appointment</h2>
+                        <!--<p>Just fill-in the form below and we will get in touch with you as soon as possible.</p>-->
+                                
+
+                       <div class="form1_wrapper ">
+			    <form method="post" action="enquirymail.php">
+           
+            <div id="form1" class="form-horizontal">
+                <div id="AlertClass" class="" style="display: none;">
+                    <div id="lblResult">
+                    </div>
+                </div>
+                <div class="req">
+                    <input type="text" name="name" placeholder="Your Name *" data-type="text" data-msg="" id="txtName">
+                </div>
+                <div class="req">
+                    <input type="text" name="mobile" placeholder="Mobile *" data-type="number" data-msg="" id="txtMobileNo">
+                </div>
+
+                <div>
+                    <input type="email" name="email" placeholder="Email" data-type="email" data-msg="" id="txtEmail">
+                </div>
+                <div>
+                    <input type="city" name="city" placeholder="City" data-type="city" data-msg="" id="txtCity">
+                </div>
+
+                <div class="req">
+                    <select name="service" data-type="dropdown" data-msg="" id="ddlCarType">
+                        <option hidden="">Select Services * </option>
+                        <option value="Ac Repair">Ac Repair</option>
+                        
+                        <option value="Washing Machine">Washing Machine</option>
+                        <option value="Microwave Ove">Microwave Oven</option>
+                        <option value="Refrigerator">Refrigerator</option>
+                        <option value="Others">Others</option>
+                    </select>
+                </div>
+                <div class="req">
+                    <select name="service1" data-type="dropdown" data-msg="" id="ddlCarType">
+                        <option hidden="">--Warranty Status-- * </option>
+                        <option value="Warranty Status">Under Warranty</option>
+                        <option value="Out of Warranty">Out of Warranty</option>
+                       
+                    </select>
+                </div>
+                <textarea name="message" placeholder="Your requirements" data-type="textarea" data-msg="" id="txtMessage"></textarea>
+                <button type="submit" class="submit">
+                    Submit</button>
+                     <h2>Our Engineer Will Contact You Within 90 Minutes.</h2>
+                    
+            </div>
+            </form>
+        </div>
+     <div class="clearfix"></div>
+                   
+                    
+                    </div>
+    
+    </div>
+    </div>
+    
+    </div>
+    
+    
+    
+    <div class="feature-list-bar">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-3"><p><i class="fa fa-check-circle fa-success1"></i> SATISFACTION GUARANTEE  </p></div>
+                <div class="col-md-3"><p><i class="fa fa-check-circle fa-success1"></i> 24X7 SUPPORT </p></div>
+                <div class="col-md-3"><p><i class="fa fa-check-circle fa-success1"></i> MONEYBACK GUARANTEE  </p></div>
+                 <div class="col-md-3"><p><i class="fa fa-check-circle fa-success1"></i> SAME DAY REPAIR </p> </div>
+
+            </div>
+        </div>
+    </div>
+
+    <div class="section-space40 bg-white ">
+        <div class="container">
+            <div class="row">
+            
+                            <div class="col-md-3"><img src="images/technical.png"></div>
+
+            
+                <div class="col-md-5">
+                    <div class="section-title mb0">
+                        <!-- section title start-->
+                        <h1> Welcome to 24x7 Customers Support</h1>
+                       <p>We, 24x7 Customers Support services in Mumbai, Pune, Delhi , Bengaluru, Hyderabad, Patna, Kolkata, Indore, Bhopal, provide highly efficient tv repairing service at the affordable rate. We do all type of quality check/testing of all Air Conditioner,Fridge,Mircowave,Washing Machine TV. Best advanced repair service provided by us, we have specialized engineers team for tv repair. We are known for providing quality services at the market-friendly price without any hassle. Customer satisfaction is our main goal.</p>
+                        
+                       
+                           
+                    </div>
+                    <!-- /.section title start-->
+                </div>
+                
+                <div class="col-md-4">
+                <div class="right-info-box">
+                    <div class="top">
+                        <div class="iocn-holder">
+                            <i class="fa fa-phone"></i>
+                        </div>
+                        <div class="text-holder">
+                            <h3>24/7 24x7 Customers Support</h3>
+                            <span>For Emergency Service</span>    
+                        </div>
+                    </div>
+                    <div class="middle">
+                        <h1>18008339860</h1>
+                        <p>We can provide expert 24 hour Emergency<br> Repair, Contact when you need it!.</p>    
+                    </div>
+                    
+                </div>
+            </div>
+            </div>
+            
+        </div>
+    </div>
+    
+    
+    <div class="section-space40">
+        <div class="container">
+            <div class="row">
+                 <div class="col-md-12 col-sm-12 col-12">
+                    <div class="mb60 text-center section-title">
+                        <!-- section title start-->
+                        <h1>Our Services</h1>
+                        <p>24x7 Customers Support services is best repair solution,We provide repair solution for all types of Home Appliances</p>
+                    </div>
+                    <!-- /.section title start-->
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-xl-4 col-lg-4 col-md-4 col-sm-12 col-12">
+                    <div class="post-block mb30">
+                       
+                          <img src="images/1.jpg" alt="Led Tv Repair" class="img-fluid">
+                       
+                        <div class="bg-white pinside20 outline">
+                            <h2><a href="tel:18008339860" class="title">Ac Repair Services</a></h2>
+                            <p> Air Cool Services offers a variety of options for clients when it comes to servicing and repairing their Air Conditioning equipment, so that come summer you are able to cool your house </p>
+                            <a href="tel:18008339860" class="btn-link">Click Here to call</a> </div>
+                    </div>
+                </div>
+                <div class="col-xl-4 col-lg-4 col-md-4 col-sm-12 col-12">
+                    <div class="post-block mb30">
+                                                                        <img src="images/fridge.jpg" alt="Led Tv Repair" class="img-fluid">
+
+                        <div class="bg-white pinside20 outline">
+                            <h2><a href="tel:18008339860" class="title">Fridge Repair</a></h2>
+                            <p>  What Dial Service offered you is the best quality at affordable repair service because we have excellent skilled technicians team and also we visit at your place</p>
+                            <a href="tel:18008339860" class="btn-link">Click Here to call</a> </div>
+                    </div>
+                </div>
+                <div class="col-xl-4 col-lg-4 col-md-4 col-sm-12 col-12">
+                    <div class="post-block mb30">
+                                                                        <img src="images/washer-repair-technician-atlanta-itisfixed%20%281%29.jpg" alt="Led Tv Repair" class="img-fluid">
+
+                        <div class="bg-white pinside20 outline">
+                            <h2><a href="tel:18008339860" class="title">Washing Machine  Repair</a></h2>
+                            <p> 24x7customarservice services is having team of professional experts who are having years of experience in repairing industry which leads to 100% customer.</p>
+                            <a href="tel:18008339860" class="btn-link">Click Here to call</a> </div>
+                    </div>
+                </div>
+                <div class="col-xl-4 col-lg-4 col-md-4 col-sm-12 col-12">
+                    <div class="post-block mb30">
+                                                                        <img src="images/microwave-repair-image.jpg" alt="Led Tv Repair" class="img-fluid">
+
+                        <div class="bg-white pinside20 outline">
+                            <h2><a href="tel:18008339860" class="title">Mircowave Repair</a></h2>
+                            <p> 24x7customarservice services is the best option for Mircowave repair.Our Microwave oven repair center offers repair services for solo, convection and grill microwaves.</p>
+                            <a href="tel:18008339860" class="btn-link">Click Here to call</a> </div>
+                    </div>
+                </div>
+                
+                
+              </div>
+                
+                
+                
+                
+                
+                
+            </div>
+        </div>
+   
+    <div class="cta">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-offset-2 col-md-8 col-xs-12 ">
+                    <div class="mb60 text-center section-title text-white">
+                        <!-- section title start-->
+                        <h1 class="text-white">Home Appliances</h1>
+                        <p class="lead">All Type of Air-Conditioning Services & Maintenances under AMC & CMC comprehensive Contract</p>
+                    </div>
+                    <!-- /.section title start-->
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-12">
+                    <p class="text-white text-center">Customer Service Center is your appliance and home improvement experts. Whether you need an refrigerator repair, washing machine repair, microwave repair, inverter repair, a residential air conditioner repair, or LED TV Repair, our qualified service professionals based throughout the Delhi Ncr provide guaranteed super fast home services with quality and workmanship. We repair all major brands, makes, and models. There is No matter where you bought it, we can fix it.</p>
+                </div>
+                
+                
+                
+                
+            </div>
+        </div>
+    </div>
+    
+   
+    
+    <div class="footer section-space20">
+        <!-- footer -->
+        <div class="container">
+            
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="widget-text mt20 mb20">
+                        <!-- widget text -->
+                        <h2 class="text-white text-center">Our Branches</h2> 
+                        
+<h2 class="text-white text-center">Hyderabad, Mumbai, Pune, Delhi, Bengaluru, Patna, Kolkata, Indore, Bhopal</h2> 
+ 
+<h1 class="text-center text-warning"><a href="tel:18008339860">18008339860</a></h1>  
+
+                    </div>
+                    <!-- /.widget text -->
+                </div>
+                
+                
+                
+            </div>
+        </div>
+    </div>
+    <div class="section-space40">
+        <div class="container">
+           
+            <div class="row">
+                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-6">
+                    <div class="post-block mb30">
+                        <img src="images/m5.jpg" alt="Led Tv Repair" class="img-fluid">
+
+                    </div>
+                </div>
+                 <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-6">
+                    <div class="post-block mb30">
+                        <img src="images/m2.jpg" alt="Led Tv Repair" class="img-fluid">
+
+                    </div>
+                </div>
+                 <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-6">
+                    <div class="post-block mb30">
+                        <img src="images/m3.jpg" alt="Led Tv Repair" class="img-fluid">
+
+                        
+                    </div>
+                </div>
+                 <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-6">
+                    <div class="post-block mb30">
+                        <img src="images/m4.jpg" alt="Led Tv Repair" class="img-fluid">
+
+                    </div>
+                </div>
+                 <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-6">
+                    <div class="post-block mb30">
+                        <img src="images/m1.jpg" alt="Led Tv Repair" class="img-fluid">
+
+                    </div>
+                </div>
+                 <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-6">
+                    <div class="post-block mb30">
+                        <img src="images/m6.jpg" alt="Led Tv Repair" class="img-fluid">
+
+                        
+                    </div>
+                </div>
+                 <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-6">
+                    <div class="post-block mb30">
+                        <img src="images/m7.jpg" alt="Led Tv Repair" class="img-fluid">
+
+                    </div>
+                </div>
+                 <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-6">
+                    <div class="post-block mb30">
+                        <img src="images/m8.jpg" alt="Led Tv Repair" class="img-fluid">
+
+                    </div>
+                </div>
+                 <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-6">
+                    <div class="post-block mb30">
+                        <img src="images/m9.jpg" alt="Led Tv Repair" class="img-fluid">
+
+                        
+                    </div>
+                </div>
+              </div>
+                
+                
+                
+                
+                
+                
+            </div>
+        </div>
+    <!-- /.footer -->
+    <div class="tiny-footer">
+        <!-- tiny footer -->
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6 col-sm-12 col-xs-12">
+                    <p>© Copyright 2022 | 24x7 Customers Support</p>
+                </div>
+                
+                <div class="col-md-6 col-sm-6 col-xs-6 text-right">
+                   Designed By <a href="https://samwebsolutions.co.in/" target="_blank">Sam Web Solutions</a>
+                </div>
+                
+            </div>	
+        </div>
+    </div>
+<!--    <div class="what">-->
+<!--			  <a href="https://api.whatsapp.com/send?phone=+919834405472-->
+<!--"><img class="img-responsive" src="images/giphy.gif" alt="" style="height: 50px;"></a>-->
+<!--</div>-->
+    <!-- GetButton.io widget -->
+
+<!-- /GetButton.io widget -->
+<!-- GetButton.io widget -->
+
+<!-- /GetButton.io widget -->
+    <!-- /.tiny footer -->
+    <!-- /.tiny footer -->
+    <!-- back to top icon -->
+    <a href="#0" class="cd-top" title="Go to top">Top</a>
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="js/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="js/menumaker.js"></script>
+    <!-- animsition -->
+    <script type="text/javascript" src="js/animsition.js"></script>
+    <script type="text/javascript" src="js/animsition-script.js"></script>
+    <!-- sticky header -->
+    <script type="text/javascript" src="js/jquery.sticky.js"></script>
+    <script type="text/javascript" src="js/sticky-header.js"></script>
+    <!-- slider script -->
+    <script type="text/javascript" src="js/owl.carousel.min.js"></script>
+    <script type="text/javascript" src="js/slider-carousel.js"></script>
+    <script type="text/javascript" src="js/service-carousel.js"></script>
+    <!-- Back to top script -->
+    <script src="js/back-to-top.js" type="text/javascript"></script>
+    <script src="js/jquery-ui.js"></script>
+    
+   
+</body>
+
+
+
+
+</html>

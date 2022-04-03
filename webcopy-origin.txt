@@ -1,0 +1,344 @@
+Uri: https://24x7customers-support.co.in/
+File Name: C:\Users\Ashok\Desktop\New Website\24x7customers-support.co.in\index.htm
+Content Type: text/html
+
+Uri: https://24x7customers-support.co.in/css/AjaxLoader.html
+File Name: C:\Users\Ashok\Desktop\New Website\24x7customers-support.co.in\css\AjaxLoader.html
+Content Type: text/html
+
+Uri: https://24x7customers-support.co.in/css/animsition.min.css
+File Name: C:\Users\Ashok\Desktop\New Website\24x7customers-support.co.in\css\animsition.min.css
+Content Type: text/css
+
+Uri: https://24x7customers-support.co.in/css/bootstrap.min.css
+File Name: C:\Users\Ashok\Desktop\New Website\24x7customers-support.co.in\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://24x7customers-support.co.in/css/flaticon.css
+File Name: C:\Users\Ashok\Desktop\New Website\24x7customers-support.co.in\css\flaticon.css
+Content Type: text/css
+
+Uri: https://24x7customers-support.co.in/css/font-awesome.min.css
+File Name: C:\Users\Ashok\Desktop\New Website\24x7customers-support.co.in\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://24x7customers-support.co.in/css/fontello.css
+File Name: C:\Users\Ashok\Desktop\New Website\24x7customers-support.co.in\css\fontello.css
+Content Type: text/css
+
+Uri: https://24x7customers-support.co.in/css/grabbing.html
+File Name: C:\Users\Ashok\Desktop\New Website\24x7customers-support.co.in\css\grabbing.html
+Content Type: text/html
+
+Uri: https://24x7customers-support.co.in/css/owl.carousel.css
+File Name: C:\Users\Ashok\Desktop\New Website\24x7customers-support.co.in\css\owl.carousel.css
+Content Type: text/css
+
+Uri: https://24x7customers-support.co.in/css/owl.theme.css
+File Name: C:\Users\Ashok\Desktop\New Website\24x7customers-support.co.in\css\owl.theme.css
+Content Type: text/css
+
+Uri: https://24x7customers-support.co.in/css/style.css
+File Name: C:\Users\Ashok\Desktop\New Website\24x7customers-support.co.in\css\style.css
+Content Type: text/css
+
+Uri: https://24x7customers-support.co.in/fonts/Flaticon.eot
+File Name: C:\Users\Ashok\Desktop\New Website\24x7customers-support.co.in\fonts\Flaticon.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://24x7customers-support.co.in/fonts/Flaticon.svg
+File Name: C:\Users\Ashok\Desktop\New Website\24x7customers-support.co.in\fonts\Flaticon.svg
+Content Type: image/svg+xml
+
+Uri: https://24x7customers-support.co.in/fonts/Flaticon.ttf
+File Name: C:\Users\Ashok\Desktop\New Website\24x7customers-support.co.in\fonts\Flaticon.ttf
+Content Type: font/ttf
+
+Uri: https://24x7customers-support.co.in/fonts/Flaticon.woff
+File Name: C:\Users\Ashok\Desktop\New Website\24x7customers-support.co.in\fonts\Flaticon.woff
+Content Type: font/woff
+
+Uri: https://24x7customers-support.co.in/fonts/Flaticond41dd41d.eot?
+File Name: C:\Users\Ashok\Desktop\New Website\24x7customers-support.co.in\fonts\Flaticond41dd41d.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://24x7customers-support.co.in/fonts/fontawesome-webfont5b625b62.eot?v=4.6.3
+File Name: C:\Users\Ashok\Desktop\New Website\24x7customers-support.co.in\fonts\fontawesome-webfont5b625b62.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://24x7customers-support.co.in/fonts/fontawesome-webfont5b625b62.svg?v=4.6.3
+File Name: C:\Users\Ashok\Desktop\New Website\24x7customers-support.co.in\fonts\fontawesome-webfont5b625b62.svg
+Content Type: image/svg+xml
+
+Uri: https://24x7customers-support.co.in/fonts/fontawesome-webfont5b625b62.ttf?v=4.6.3
+File Name: C:\Users\Ashok\Desktop\New Website\24x7customers-support.co.in\fonts\fontawesome-webfont5b625b62.ttf
+Content Type: font/ttf
+
+Uri: https://24x7customers-support.co.in/fonts/fontawesome-webfont5b625b62.woff2?v=4.6.3
+File Name: C:\Users\Ashok\Desktop\New Website\24x7customers-support.co.in\fonts\fontawesome-webfont5b625b62.woff2
+Content Type: font/woff2
+
+Uri: https://24x7customers-support.co.in/fonts/fontawesome-webfont5b625b62.woff?v=4.6.3
+File Name: C:\Users\Ashok\Desktop\New Website\24x7customers-support.co.in\fonts\fontawesome-webfont5b625b62.woff
+Content Type: font/woff
+
+Uri: https://24x7customers-support.co.in/fonts/fontawesome-webfontd41dd41d.eot?
+File Name: C:\Users\Ashok\Desktop\New Website\24x7customers-support.co.in\fonts\fontawesome-webfontd41dd41d.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://24x7customers-support.co.in/fonts/fontellof887f887.eot?72294633
+File Name: C:\Users\Ashok\Desktop\New Website\24x7customers-support.co.in\fonts\fontellof887f887.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://24x7customers-support.co.in/fonts/fontellof887f887.html?72294633
+File Name: C:\Users\Ashok\Desktop\New Website\24x7customers-support.co.in\fonts\fontellof887f887.html
+Content Type: text/html
+
+Uri: https://24x7customers-support.co.in/fonts/fontellof887f887.svg?72294633
+File Name: C:\Users\Ashok\Desktop\New Website\24x7customers-support.co.in\fonts\fontellof887f887.svg
+Content Type: image/svg+xml
+
+Uri: https://24x7customers-support.co.in/fonts/fontellof887f887.ttf?72294633
+File Name: C:\Users\Ashok\Desktop\New Website\24x7customers-support.co.in\fonts\fontellof887f887.ttf
+Content Type: font/ttf
+
+Uri: https://24x7customers-support.co.in/fonts/fontellof887f887.woff?72294633
+File Name: C:\Users\Ashok\Desktop\New Website\24x7customers-support.co.in\fonts\fontellof887f887.woff
+Content Type: font/woff
+
+Uri: https://24x7customers-support.co.in/fonts/glyphicons-halflings-regular.eot
+File Name: C:\Users\Ashok\Desktop\New Website\24x7customers-support.co.in\fonts\glyphicons-halflings-regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://24x7customers-support.co.in/fonts/glyphicons-halflings-regular.html
+File Name: C:\Users\Ashok\Desktop\New Website\24x7customers-support.co.in\fonts\glyphicons-halflings-regular.html
+Content Type: text/html
+
+Uri: https://24x7customers-support.co.in/fonts/glyphicons-halflings-regular.svg
+File Name: C:\Users\Ashok\Desktop\New Website\24x7customers-support.co.in\fonts\glyphicons-halflings-regular.svg
+Content Type: image/svg+xml
+
+Uri: https://24x7customers-support.co.in/fonts/glyphicons-halflings-regular.ttf
+File Name: C:\Users\Ashok\Desktop\New Website\24x7customers-support.co.in\fonts\glyphicons-halflings-regular.ttf
+Content Type: font/ttf
+
+Uri: https://24x7customers-support.co.in/fonts/glyphicons-halflings-regular.woff
+File Name: C:\Users\Ashok\Desktop\New Website\24x7customers-support.co.in\fonts\glyphicons-halflings-regular.woff
+Content Type: font/woff
+
+Uri: https://24x7customers-support.co.in/fonts/glyphicons-halflings-regulard41dd41d.eot?
+File Name: C:\Users\Ashok\Desktop\New Website\24x7customers-support.co.in\fonts\glyphicons-halflings-regulard41dd41d.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://24x7customers-support.co.in/images/1.jpg
+File Name: C:\Users\Ashok\Desktop\New Website\24x7customers-support.co.in\images\1.jpg
+Content Type: image/jpeg
+
+Uri: https://24x7customers-support.co.in/images/business-slider-01.jpg
+File Name: C:\Users\Ashok\Desktop\New Website\24x7customers-support.co.in\images\business-slider-01.jpg
+Content Type: image/jpeg
+
+Uri: https://24x7customers-support.co.in/images/cd-top-arrow.svg
+File Name: C:\Users\Ashok\Desktop\New Website\24x7customers-support.co.in\images\cd-top-arrow.svg
+Content Type: image/svg+xml
+
+Uri: https://24x7customers-support.co.in/images/cta-img.jpg
+File Name: C:\Users\Ashok\Desktop\New Website\24x7customers-support.co.in\images\cta-img.jpg
+Content Type: image/jpeg
+
+Uri: https://24x7customers-support.co.in/images/fridge.jpg
+File Name: C:\Users\Ashok\Desktop\New Website\24x7customers-support.co.in\images\fridge.jpg
+Content Type: image/jpeg
+
+Uri: https://24x7customers-support.co.in/images/home-loan-lp.html
+File Name: C:\Users\Ashok\Desktop\New Website\24x7customers-support.co.in\images\home-loan-lp.html
+Content Type: text/html
+
+Uri: https://24x7customers-support.co.in/images/lp-car-image.html
+File Name: C:\Users\Ashok\Desktop\New Website\24x7customers-support.co.in\images\lp-car-image.html
+Content Type: text/html
+
+Uri: https://24x7customers-support.co.in/images/m1.jpg
+File Name: C:\Users\Ashok\Desktop\New Website\24x7customers-support.co.in\images\m1.jpg
+Content Type: image/jpeg
+
+Uri: https://24x7customers-support.co.in/images/m2.jpg
+File Name: C:\Users\Ashok\Desktop\New Website\24x7customers-support.co.in\images\m2.jpg
+Content Type: image/jpeg
+
+Uri: https://24x7customers-support.co.in/images/m3.jpg
+File Name: C:\Users\Ashok\Desktop\New Website\24x7customers-support.co.in\images\m3.jpg
+Content Type: image/jpeg
+
+Uri: https://24x7customers-support.co.in/images/m4.jpg
+File Name: C:\Users\Ashok\Desktop\New Website\24x7customers-support.co.in\images\m4.jpg
+Content Type: image/jpeg
+
+Uri: https://24x7customers-support.co.in/images/m5.jpg
+File Name: C:\Users\Ashok\Desktop\New Website\24x7customers-support.co.in\images\m5.jpg
+Content Type: image/jpeg
+
+Uri: https://24x7customers-support.co.in/images/m6.jpg
+File Name: C:\Users\Ashok\Desktop\New Website\24x7customers-support.co.in\images\m6.jpg
+Content Type: image/jpeg
+
+Uri: https://24x7customers-support.co.in/images/m7.jpg
+File Name: C:\Users\Ashok\Desktop\New Website\24x7customers-support.co.in\images\m7.jpg
+Content Type: image/jpeg
+
+Uri: https://24x7customers-support.co.in/images/m8.jpg
+File Name: C:\Users\Ashok\Desktop\New Website\24x7customers-support.co.in\images\m8.jpg
+Content Type: image/jpeg
+
+Uri: https://24x7customers-support.co.in/images/m9.jpg
+File Name: C:\Users\Ashok\Desktop\New Website\24x7customers-support.co.in\images\m9.jpg
+Content Type: image/jpeg
+
+Uri: https://24x7customers-support.co.in/images/microwave-repair-image.jpg
+File Name: C:\Users\Ashok\Desktop\New Website\24x7customers-support.co.in\images\microwave-repair-image.jpg
+Content Type: image/jpeg
+
+Uri: https://24x7customers-support.co.in/images/mini.png
+File Name: C:\Users\Ashok\Desktop\New Website\24x7customers-support.co.in\images\mini.png
+Content Type: image/png
+
+Uri: https://24x7customers-support.co.in/images/page-header.html
+File Name: C:\Users\Ashok\Desktop\New Website\24x7customers-support.co.in\images\page-header.html
+Content Type: text/html
+
+Uri: https://24x7customers-support.co.in/images/slider-01.jpg
+File Name: C:\Users\Ashok\Desktop\New Website\24x7customers-support.co.in\images\slider-01.jpg
+Content Type: image/jpeg
+
+Uri: https://24x7customers-support.co.in/images/slider-02.jpg
+File Name: C:\Users\Ashok\Desktop\New Website\24x7customers-support.co.in\images\slider-02.jpg
+Content Type: image/jpeg
+
+Uri: https://24x7customers-support.co.in/images/technical.png
+File Name: C:\Users\Ashok\Desktop\New Website\24x7customers-support.co.in\images\technical.png
+Content Type: image/png
+
+Uri: https://24x7customers-support.co.in/images/washer-repair-technician-atlanta-itisfixed (1).jpg
+File Name: C:\Users\Ashok\Desktop\New Website\24x7customers-support.co.in\images\washer-repair-technician-atlanta-itisfixed (1).jpg
+Content Type: image/jpeg
+
+Uri: https://24x7customers-support.co.in/js/animsition-script.js
+File Name: C:\Users\Ashok\Desktop\New Website\24x7customers-support.co.in\js\animsition-script.js
+Content Type: application/javascript
+
+Uri: https://24x7customers-support.co.in/js/animsition.js
+File Name: C:\Users\Ashok\Desktop\New Website\24x7customers-support.co.in\js\animsition.js
+Content Type: application/javascript
+
+Uri: https://24x7customers-support.co.in/js/back-to-top.js
+File Name: C:\Users\Ashok\Desktop\New Website\24x7customers-support.co.in\js\back-to-top.js
+Content Type: application/javascript
+
+Uri: https://24x7customers-support.co.in/js/bootstrap.min.js
+File Name: C:\Users\Ashok\Desktop\New Website\24x7customers-support.co.in\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://24x7customers-support.co.in/js/jquery-ui.js
+File Name: C:\Users\Ashok\Desktop\New Website\24x7customers-support.co.in\js\jquery-ui.js
+Content Type: application/javascript
+
+Uri: https://24x7customers-support.co.in/js/jquery.min.js
+File Name: C:\Users\Ashok\Desktop\New Website\24x7customers-support.co.in\js\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://24x7customers-support.co.in/js/jquery.sticky.js
+File Name: C:\Users\Ashok\Desktop\New Website\24x7customers-support.co.in\js\jquery.sticky.js
+Content Type: application/javascript
+
+Uri: https://24x7customers-support.co.in/js/menumaker.js
+File Name: C:\Users\Ashok\Desktop\New Website\24x7customers-support.co.in\js\menumaker.js
+Content Type: application/javascript
+
+Uri: https://24x7customers-support.co.in/js/owl.carousel.min.js
+File Name: C:\Users\Ashok\Desktop\New Website\24x7customers-support.co.in\js\owl.carousel.min.js
+Content Type: application/javascript
+
+Uri: https://24x7customers-support.co.in/js/service-carousel.js
+File Name: C:\Users\Ashok\Desktop\New Website\24x7customers-support.co.in\js\service-carousel.js
+Content Type: application/javascript
+
+Uri: https://24x7customers-support.co.in/js/slider-carousel.js
+File Name: C:\Users\Ashok\Desktop\New Website\24x7customers-support.co.in\js\slider-carousel.js
+Content Type: application/javascript
+
+Uri: https://24x7customers-support.co.in/js/sticky-header.js
+File Name: C:\Users\Ashok\Desktop\New Website\24x7customers-support.co.in\js\sticky-header.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css?family=Open+Sans:300,400,400i,600,600i,700,700i,800
+File Name: C:\Users\Ashok\Desktop\New Website\24x7customers-support.co.in\css-2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:400,700,900
+File Name: C:\Users\Ashok\Desktop\New Website\24x7customers-support.co.in\css-1
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/opensans/v28/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk8ZkWVAexQ.ttf
+File Name: C:\Users\Ashok\Desktop\New Website\24x7customers-support.co.in\s\opensans\v28\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk8ZkWVAexQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v28/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkxhjWVAexQ.ttf
+File Name: C:\Users\Ashok\Desktop\New Website\24x7customers-support.co.in\s\opensans\v28\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkxhjWVAexQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v28/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkyFjWVAexQ.ttf
+File Name: C:\Users\Ashok\Desktop\New Website\24x7customers-support.co.in\s\opensans\v28\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkyFjWVAexQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v28/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4gaVc.ttf
+File Name: C:\Users\Ashok\Desktop\New Website\24x7customers-support.co.in\s\opensans\v28\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v28/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1x4gaVc.ttf
+File Name: C:\Users\Ashok\Desktop\New Website\24x7customers-support.co.in\s\opensans\v28\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1x4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v28/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgshZ1x4gaVc.ttf
+File Name: C:\Users\Ashok\Desktop\New Website\24x7customers-support.co.in\s\opensans\v28\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgshZ1x4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v28/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0B4gaVc.ttf
+File Name: C:\Users\Ashok\Desktop\New Website\24x7customers-support.co.in\s\opensans\v28\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0B4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v28/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf
+File Name: C:\Users\Ashok\Desktop\New Website\24x7customers-support.co.in\s\opensans\v28\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v29/KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+File Name: C:\Users\Ashok\Desktop\New Website\24x7customers-support.co.in\s\roboto\v29\KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v29/KFOlCnqEu92Fr1MmYUtfBBc9.ttf
+File Name: C:\Users\Ashok\Desktop\New Website\24x7customers-support.co.in\s\roboto\v29\KFOlCnqEu92Fr1MmYUtfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v29/KFOmCnqEu92Fr1Mu4mxP.ttf
+File Name: C:\Users\Ashok\Desktop\New Website\24x7customers-support.co.in\s\roboto\v29\KFOmCnqEu92Fr1Mu4mxP.ttf
+Content Type: font/ttf
+
+Uri: https://jituchauhan.com/comments/feed/
+File Name: C:\Users\Ashok\Desktop\New Website\24x7customers-support.co.in\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://jituchauhan.com/feed/
+File Name: C:\Users\Ashok\Desktop\New Website\24x7customers-support.co.in\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://jituchauhan.com/wp-includes/wlwmanifest.xml
+File Name: C:\Users\Ashok\Desktop\New Website\24x7customers-support.co.in\wp-includes\wlwmanifest.xml
+Content Type: application/xml
+
+Uri: https://jituchauhan.com/wp-json/
+File Name: C:\Users\Ashok\Desktop\New Website\24x7customers-support.co.in\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://jituchauhan.com/xmlrpc.php?rsd
+File Name: C:\Users\Ashok\Desktop\New Website\24x7customers-support.co.in\xmlrpc.php
+Content Type: text/xml
+
